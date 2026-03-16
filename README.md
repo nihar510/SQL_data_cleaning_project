@@ -10,8 +10,8 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-clean
 
 STEPS FOR DATA CLEANING
 
-1. check if the column names are SQL complaint
-2. 2. check for duplicates and remove any
-3. standardize data and fix errors
+1. Check if the column names are SQL complaint
+2. Check for duplicates and remove any
+3. Standardize data and fix errors
 4. Look at null values and fill where possible or ignore
-5. 5. remove any columns and rows that are not necessary 
+5. Remove any columns and rows that are not necessary 
